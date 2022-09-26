@@ -42,4 +42,3 @@ A refresh week to practice the basic algorithms and data structures.
 #### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) -> [leetcode](https://leetcode.com/m7moudGadallah/)
 =======
 #### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) ➜ [leetcode](https://leetcode.com/m7moudGadallah/)
->>>>>>> a11be5e (Week1)
