@@ -38,7 +38,4 @@ A refresh week to practice the basic algorithms and data structures.
 | Product of Array Except Self | [Solution](https://leetcode.com/submissions/detail/803145101/) |
 | Find Minimum in Rotated Sorted Array | [Solution](https://leetcode.com/submissions/detail/803189430/) |
 
-<<<<<<< HEAD
-#### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) -> [leetcode](https://leetcode.com/m7moudGadallah/)
-=======
 #### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) ➜ [leetcode](https://leetcode.com/m7moudGadallah/)
