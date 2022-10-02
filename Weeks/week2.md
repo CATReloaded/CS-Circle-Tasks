@@ -26,20 +26,19 @@
 ### **General**
 |Problem|Solution|Level|
 |----|----------|------|
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
-|  | [Solution]() |  |
+| Valid Parentheses | [Solution](https://leetcode.com/submissions/detail/804402129/) | Easy |
+| Remove All Adjacent Duplicates In String | [Solution](https://leetcode.com/submissions/detail/804410207/) | Easy |
+| Crawler Log Folder | [Solution](https://leetcode.com/submissions/detail/806821810/) | Easy |
+| First Unique Character in a String | [Solution](https://leetcode.com/submissions/detail/805422322/) | Easy |
+| Time Needed to Buy Tickets | [Solution](https://leetcode.com/submissions/detail/805577238/) | Easy |
+| Reverse Linked List | [Solution](https://leetcode.com/submissions/detail/806009370/) | Easy |
+| Merge Two Sorted Lists | [Solution](https://leetcode.com/submissions/detail/806047814/) | Easy |
+| Min Stack | [Solution](https://leetcode.com/submissions/detail/806971667/) | Medium |
+| Evaluate Reverse Polish Notation | [Solution](https://leetcode.com/submissions/detail/806990281/) | Medium |
+| eveal Cards In Increasing Order | [Solution](https://leetcode.com/submissions/detail/807281363/) | Medium |
+| Find the Winner of the Circular Game | [Solution](https://leetcode.com/submissions/detail/807287689/) | Medium |
+| Remove Nth Node From End of List | [Solution](https://leetcode.com/submissions/detail/807330483/) | Medium |
+| Odd Even Linked List | [Solution](https://leetcode.com/submissions/detail/808217381/) | Medium |
+| Sliding Window Maximum | [Solution](https://leetcode.com/submissions/detail/807339691/) | Hard |
 
 #### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) ➜ [leetcode](https://leetcode.com/m7moudGadallah/)
