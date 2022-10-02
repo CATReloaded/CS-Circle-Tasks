@@ -6,10 +6,40 @@
 ### **Easy problems**
 |Problem|Solution|Topic|
 |----|----------|------|
+| Backspace String Compare | [Solution](https://leetcode.com/submissions/detail/804355427/) | Stack |
+| Valid Parentheses | [Solution](https://leetcode.com/submissions/detail/804402129/) | Stack |
+| Remove All Adjacent Duplicates In String | [Solution](https://leetcode.com/submissions/detail/804410207/) | Stack |
+| Remove Outermost Parentheses | [Solution](https://leetcode.com/submissions/detail/804444838/) | Stack |
+| Baseball Game | [Solution](https://leetcode.com/submissions/detail/804455802/) | Stack |
+| Number of Students Unable to Eat Lunch | [Solution](https://leetcode.com/submissions/detail/805378525/) | Queue |
+| Time Needed to Buy Tickets | [Solution](https://leetcode.com/submissions/detail/805577238/) | Queue |
+| First Unique Character in a String | [Solution](https://leetcode.com/submissions/detail/805422322/) | Queue |
+| Number of Recent Calls | [Solution](https://leetcode.com/submissions/detail/805574228/) | Queue |
+| Implement Queue using Stacks | [Solution](https://leetcode.com/submissions/detail/805392211/) | Queue |
+| Remove Linked List Elements | [Solution](https://leetcode.com/submissions/detail/805994737/) | Linked List |
+| Middle of the Linked List | [Solution](https://leetcode.com/submissions/detail/806000508/) | Linked List |
+| Reverse Linked List | [Solution](https://leetcode.com/submissions/detail/806009370/) | Linked List |
+| Convert Binary Number in a Linked List to Integer | [Solution](https://leetcode.com/submissions/detail/806023071/) | Linked List |
+| Merge Two Sorted Lists | [Solution](https://leetcode.com/submissions/detail/806047436/) | Linked List |
 
 
 ### **General**
 |Problem|Solution|Level|
 |----|----------|------|
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
+|  | [Solution]() |  |
 
 #### **Week Hero**: [Mahmoud Gadallah](https://github.com/m7moudGadallah) ➜ [leetcode](https://leetcode.com/m7moudGadallah/)
