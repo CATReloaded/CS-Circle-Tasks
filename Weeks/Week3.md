@@ -39,8 +39,8 @@
 | Minimum Sum of Four Digit Number After Splitting Digits | [Solution](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/submissions/816321372/) | Easy |
 |Find First and Last Position of Element in Sorted Array | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/819649270/) | Medium |
 | Find Peak Element | [Solution](https://leetcode.com/problems/find-peak-element/submissions/819665094/) | Medium |
-| Sort Colors | [Solution]https://leetcode.com/problems/sort-colors/submissions/818496586/) | Medium |
-| Merge Intervals | [Solution]https://leetcode.com/problems/merge-intervals/submissions/816332447/) | Medium |
+| Sort Colors | [Solution](https://leetcode.com/problems/sort-colors/submissions/818496586/) | Medium |
+| Merge Intervals | [Solution](https://leetcode.com/problems/merge-intervals/submissions/816332447/) | Medium |
 | Largest Number | [Solution](https://leetcode.com/problems/largest-number/submissions/819123521/) | Medium |
 
 
